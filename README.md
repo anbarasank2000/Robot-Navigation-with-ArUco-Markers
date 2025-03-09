@@ -1,6 +1,6 @@
 # ENPM809Y Final Project - Robot Navigation with ArUco Markers
 
-[![Project Output Video](YOUR_GITHUB_VIDEO_LINK)](YOUR_GITHUB_VIDEO_LINK)
+[![Final Project](VN20250203_171153.gif)](https://youtu.be/bd-VS6yTScw)
 
 ## Overview
 This project is part of the ENPM809Y - Introductory Robot Programming course at the University of Maryland. The objective was to develop a ROS2-based solution for navigating a Turtlebot within a Gazebo simulation environment using ArUco markers and logical cameras.
